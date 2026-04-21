@@ -189,7 +189,7 @@ if not run:
         with col2:
             st.markdown("**India — European style (NSE index options)**")
             st.table(pd.DataFrame({"Symbol": list(INDIA_EUROPEAN_SYMBOLS)}))
-            st.markdown("**India — American style (NSE stock options)**")
+            st.markdown("**India — European style (NSE stock options)**")
             st.table(pd.DataFrame({"Symbol": list(INDIA_AMERICAN_SYMBOLS)}))
     st.stop()
 
