@@ -91,11 +91,11 @@ The app opens at `http://localhost:8501`.
 |--------|-------|-------|
 | `NIFTY` | European | Cash-settled — BS fully appropriate |
 | `BANKNIFTY` | European | Cash-settled |
-| `DMART` | American | NSE stock option — early exercise applies |
-| `HYUNDAI` | American | Listed Oct 2024 — limited vol history |
-| `RELIANCE` | American | NSE stock option |
-| `HDFCBANK` | American | NSE stock option |
-| `INFY` | American | NSE stock option |
+| `DMART` | European | NSE stock option — early exercise applies |
+| `HYUNDAI` | European | Listed Oct 2024 — limited vol history |
+| `RELIANCE` | European | NSE stock option |
+| `HDFCBANK` | European | NSE stock option |
+| `INFY` | European | NSE stock option |
 
 The app warns you in the sidebar and on the main page whenever you select an American-style symbol.
 
