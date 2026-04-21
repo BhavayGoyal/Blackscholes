@@ -26,8 +26,8 @@ This dashboard lets you:
 ### Setup
 
 ```bash
-git clone <your-repo>
-cd <your-repo>
+git clone https://github.com/BhavayGoyal/Blackscholes
+cd <path-to-repo>
 pip install -r requirements.txt
 ```
 
