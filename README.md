@@ -8,6 +8,7 @@ A Streamlit application that compares theoretical Black-Scholes option prices ag
 
 This dashboard lets you:
 
+- Access the live app: [blackscholes-grp-8.streamlit.app](https://blackscholes-grp-8.streamlit.app/)
 - Price options using the **Black-Scholes-Merton formula** (with optional continuous dividend yield)
 - Fetch **live US option chains** from Yahoo Finance
 - Load **Indian NSE option chains** from locally stored CSV files
